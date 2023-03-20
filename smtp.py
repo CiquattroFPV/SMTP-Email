@@ -14,8 +14,8 @@ smtp_port = input("Inserisci il numero di porta del server SMTP (di solito è 58
 # Crea il messaggio email
 
 messaggio = """From: From Person <from@fromdomain.com>
-To: “Cisco Log” testemail@tedomain.it
-Subject: test message sent from Python 
+To: “test Email” testemail@tedomain.it
+Subject: Test Message 
 
 Hello World,
 This is a test message sent from Python.
